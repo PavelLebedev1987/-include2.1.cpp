@@ -1,7 +1,6 @@
-#include <utility>
 #include "painter.h"
 #include "wall.h"
-#include <utility>
+
 
 using namespace std;
 
